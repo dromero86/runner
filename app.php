@@ -4,7 +4,7 @@
 /**
  * @file 
  * All Runner code is released under the GNU General Public License.
- * See COPYRIGHT.txt and LICENSE.txt.
+ * See LICENSE
  */
 
 	class Application
