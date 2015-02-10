@@ -9,9 +9,9 @@ class windows
 		$wnd->show_all();
 		
 		$dialog = new GtkMessageDialog($wnd, Gtk::DIALOG_MODAL,  Gtk::MESSAGE_ERROR, Gtk::BUTTONS_OK, $title);
-        $dialog->set_markup($message);
-        $dialog->run();
-        $dialog->destroy();
+		$dialog->set_markup($message);
+		$dialog->run();
+		$dialog->destroy();
 		
 	}
 
