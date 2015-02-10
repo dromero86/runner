@@ -1,4 +1,4 @@
-# runner
+# Runner
 PHP GUI Framework
 
 - Make applications using PHP GTK
